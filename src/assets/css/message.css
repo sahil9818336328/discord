@@ -1,0 +1,23 @@
+.message {
+  display: flex;
+  align-items: center;
+  padding: 1.2rem;
+  padding-left: 0.5rem;
+  color: var(--clr-white);
+}
+.message__info {
+  margin-left: 1.2rem;
+}
+.message__info h6 {
+  letter-spacing: var(--spacing);
+}
+.message__info p {
+  color: var(--clr-white);
+  font-size: 13px;
+}
+
+.message__timeStamp {
+  color: gray;
+  margin-left: 1.2rem;
+  font-size: x-small;
+}
