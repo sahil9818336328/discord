@@ -10,7 +10,9 @@ Fonts
 Variables
 ===============
 */
-
+::-webkit-scrollbar {
+  display: none;
+}
 :root {
   /* dark shades of primary color*/
   --clr-primary-1: #202225;

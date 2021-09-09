@@ -109,3 +109,10 @@
     margin: 0;
   }
 }
+
+@media screen and (max-width: 576px) {
+  .sidebar__voiceIcons,
+  .sidebar__profileIcons {
+    display: block;
+  }
+}
